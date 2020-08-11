@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Aug 11 08:38:06 EET 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0173-dc06-97c0-00000695d628 
+on database directory C:\Users\murat\Desktop\Personal Files\Normalization\Expression  with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/C:/Users/murat/Desktop/Personal%20Files/Normalization/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\murat\Desktop\Personal Files\Normalization
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
